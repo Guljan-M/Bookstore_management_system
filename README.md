@@ -15,6 +15,7 @@ inventory levels, and generate sales reports.
 - [x] Generate sales reports based on book sales.
 
 ## High-level design
+![Research and Design](https://github.com/Guljan-M/Bookstore_management_system/assets/122173021/b9015b6a-26fb-42e8-a83d-7492ba13a83a)
 
 
 
